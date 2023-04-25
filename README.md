@@ -3,10 +3,14 @@ Datorium project lol
 
 Collaborators:
 
-  Rinalds Kigitovičs
+  Siguldas Valsts ģimnāzija:
+
+    Rinalds Kigitovičs
+
+    Liene M. Reklaite
+
+    Sebastians Mauris
+    
+  Keguma vidusskola:
   
-  Liene M. Reklaite
-  
-  Sebastians Mauris
-  
-  Siguldas Valsts ģimnāzija, 12.a
+    Tīna Kurpniece
